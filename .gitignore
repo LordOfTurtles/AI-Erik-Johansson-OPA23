@@ -163,3 +163,6 @@ cython_debug/
 movies.csv
 ratings.csv
 original_data/
+experiment_small_data/
+experiment_tiny_data/
+
